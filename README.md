@@ -1,1 +1,2 @@
-I am editing the README file. Adding some more details about the project description.
+## Mini-projects Repository  
+This repository contains few mini-projects I made, during the learning process.
